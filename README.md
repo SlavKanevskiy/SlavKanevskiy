@@ -42,6 +42,10 @@ Open to roles with challenging tasks, new technologies, and opportunities to gro
 | **Infrastructure** | Docker, GitLab CI/CD |
 
 ---
+## 🖥️ Live Demo
+🔗 [Angular & React Micro-Frontend Demo](https://github.com/SlavKanevskiy/angular-react-nodejs)
+
+---
 
 ### 💼 Experience  
 
