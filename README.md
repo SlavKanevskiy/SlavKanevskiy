@@ -1,10 +1,9 @@
 <!-- Profile README for GitHub -->
 
 <h1 align="center">👋 Hi, I'm Viacheslav Kanevskiy</h1>
-<h3 align="center">Senior Frontend / Fullstack Developer</h3>
+<h3 align="center">Senior Frontend / Team Lead Developer</h3>
 
 <p align="center">
-  📍 Batumi, Georgia &nbsp; • &nbsp; 
   📧 <a href="mailto:kanevskiy.vi@gmail.com">kanevskiy.vi@gmail.com</a> &nbsp; • &nbsp;
   📞 +995 591 28 92 24  
 </p>
